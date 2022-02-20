@@ -1,0 +1,22 @@
+{
+  "name": "json_fetch_postman",
+  "version": "1.0.0",
+  "description": "//1. new Promise()\r //2. Executor",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nqduy99/JSON-Fetch-Postman.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nqduy99/JSON-Fetch-Postman/issues"
+  },
+  "homepage": "https://github.com/nqduy99/JSON-Fetch-Postman#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
